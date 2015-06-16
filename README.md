@@ -1,5 +1,9 @@
 # Awesome FTC Android
 
+**Beware!:** These are *very* opinionated curated selections! If you have a suggestion, send a pull request!
+I've left out most of what lists like this usually talk about, since it's usually geared towards building
+regular Android apps.
+
 - [Libraries](#libraries)
   - [Data Structures](#data-structures)
   - [Databases](#databases)
@@ -35,6 +39,7 @@ Vision libraries let you do object tracking and cool stuff like that.
 Every app *will* end up crashing, it's just a matter of *when* :)
 - [LeakCanary](https://github.com/square/leakcanary): Detect memory leaks when they happen, and report them (memory leaks are **A Bad Thing**)
 - [Hugo](https://github.com/JakeWharton/hugo): Log **all** the (debug) things
+- [Timber](https://github.com/JakeWharton/timber): Like built-in Android Log, but nicer
 
 ### Utilities
 - [Apache Commons](https://commons.apache.org/): A collection of useful Java utils
