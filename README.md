@@ -40,6 +40,7 @@ Vision libraries let you do object tracking and cool stuff like that.
 Every app *will* end up crashing, it's just a matter of *when* :)
 - [LeakCanary](https://github.com/square/leakcanary): Detect memory leaks when they happen, and report them (memory leaks are **A Bad Thing**)
 - [Hugo](https://github.com/JakeWharton/hugo): Easier logging
+
 ### Utilities
 - [Apache Commons](https://commons.apache.org/): A collection of useful Java utils
 - [Guava](https://github.com/google/guava): Google's collection of useful Java utils
