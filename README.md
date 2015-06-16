@@ -22,7 +22,8 @@ Databases let you persist your robot's state over multiple runs, and store data 
 ### Dependency Injection
 Dependency Injection makes it easier to write Java without "FactoryFactory" classes,
 and makes reusing code easier.
-- [Dagger](http://square.github.io/dagger/)
+- [Dagger 1](http://square.github.io/dagger/)
+- [Dagger 2](http://google.github.io/dagger/)
 
 ### Vision Libraries
 It's *really* nice that we have a camera this year.
