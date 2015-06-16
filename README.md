@@ -5,6 +5,7 @@
   - [Databases](#databases)
   - [Dependency Injection](#dependency-injection)
   - [Vision and Camera](#vision-libraries)
+  - [Crashes and Logging](#crashes-and-logging)
   - [Utilities](#utilities)
   
 ## Libraries
@@ -28,6 +29,11 @@ It's *really* nice that we have a camera this year.
 Vision libraries let you do object tracking and cool stuff like that.
 - [FastCV](https://developer.qualcomm.com/software/fast-cv-sdk): Qualcomm's Snapdragon-tailored vision SDK
 - [OpenCV(4Android)](http://opencv.org/platforms/android.html): OpenCV for Android
+
+### Crashes and Logging
+Every app *will* end up crashing, it's just a matter of *when* :)
+- [LeakCanary](https://github.com/square/leakcanary): Detect memory leaks when they happen, and report them (memory leaks are **A Bad Thing**)
+- [Hugo](https://github.com/JakeWharton/hugo): Log **all** the (debug) things
 
 ### Utilities
 - [Apache Commons](https://commons.apache.org/): A collection of useful Java utils
