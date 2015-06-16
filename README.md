@@ -51,3 +51,8 @@ If you want some additional utils in your app, I'd start out with these librarie
 - Guava
 - Commons Math
 - (and maybe Realm)
+
+## Further reading
+- [Awesome Android](https://github.com/JStumpp/awesome-android)
+- [Android Arsenal](http://android-arsenal.com/)
+- [FTC SDK tutorials](https://github.com/ftctechnh/ftc_app/tree/master/doc/tutorial)
