@@ -4,6 +4,10 @@
 I've left out most of what lists like this usually talk about, since it's usually geared towards building
 regular Android apps.
 
+- [Tutorials and Documentation](#tutorials-and-documentation)
+  - [Setup](#setup)
+  - [Programming](#programming)
+- [Apps](#apps)
 - [Libraries](#libraries)
   - [Data Structures](#data-structures)
   - [Databases](#databases)
@@ -12,7 +16,19 @@ regular Android apps.
   - [Crashes and Logging](#crashes-and-logging)
   - [Utilities](#utilities)
 - [A Nice Starting Point](#a-nice-starting-point)
-  
+
+## Tutorials and Documentation
+
+### Setup
+
+### Programming
+- [FTC SDK Training manual](https://github.com/ftctechnh/ftc_app/blob/master/doc/tutorial/FTCTraining%20Manual%20v0_93.pdf)
+- [Javadoc for SDK](http://htmlpreview.github.io/?https://github.com/ftctechnh/ftc_app/blob/master/doc/javadoc/index.html)
+
+## Apps
+- [Driver Station](https://play.google.com/store/apps/details?id=com.qualcomm.ftcdriverstation&hl=en)
+- [Controller](https://play.google.com/store/apps/details?id=com.qualcomm.ftcrobotcontroller&hl=en)
+
 ## Libraries
 
 ### Data structures
@@ -56,4 +72,3 @@ If you want some additional utils in your app, I'd start out with these librarie
 ## Further reading
 - [Awesome Android](https://github.com/JStumpp/awesome-android)
 - [Android Arsenal](http://android-arsenal.com/)
-- [FTC SDK tutorials](https://github.com/ftctechnh/ftc_app/tree/master/doc/tutorial)
