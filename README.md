@@ -20,6 +20,7 @@ regular Android apps.
 ## Tutorials and Documentation
 
 ### Setup
+- [Wireless ADB setup](http://developer.android.com/tools/help/adb.html#wireless)
 
 ### Programming
 - [FTC SDK Training manual](https://github.com/ftctechnh/ftc_app/blob/master/doc/tutorial/FTCTraining%20Manual%20v0_93.pdf)
