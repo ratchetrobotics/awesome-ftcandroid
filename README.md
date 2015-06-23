@@ -4,6 +4,7 @@
 I've left out most of what lists like this usually talk about, since it's usually geared towards building
 regular Android apps.
 
+- [Tested Devices](#tested-devices)
 - [Tutorials and Documentation](#tutorials-and-documentation)
   - [Setup](#setup)
   - [Programming](#programming)
@@ -16,6 +17,22 @@ regular Android apps.
   - [Crashes and Logging](#crashes-and-logging)
   - [Utilities](#utilities)
 - [A Nice Starting Point](#a-nice-starting-point)
+
+## Tested Devices
+The following devices have been tested ([Thanks pbrier!](https://github.com/pbrier/ftc_app/wiki/Tested-Devices))
+
+
+Manufacturer & Model | Android version and build | Driver Station | Robot Controller | Notes
+---------------------|---------------------------|---------------|-----------------|-----------------------
+[ZTE Speed](http://www.devicespecifications.com/en/model/a3a73197) | 4.4.2 | OK | OK | FIRST FTC Reference device
+Samsung Galaxy Core (GT i8260) |  Orgininal 4.1.2, API=16 | FAIL | OK  | Gamepad not working (no led)
+[Samsung Galaxy S3 (GT i9300)](http://www.devicespecifications.com/en/model/e4142f0b) | Cyanogenmod 4.3.1, API=18   | FAIL | OK  | Gamepad not supported. Rooted: WifiDirect channel selection works OK
+[Samsung Galaxy S3 Neo (GT i9301i)](http://www.devicespecifications.com/en/model/d1332bee) | Original 4.4.2, API=19 | FAIL | OK     | Gamepad not working (no led). 
+[Archos 70c Cobalt](http://www.archos.com/us/products/tablets/cobalt/archos_70ccobalt/specs.html?)     | Original 4.4.4            | OK   | OK     | Cheap tablet (Euro 50 @ MediaMarkt), poor screen
+Asus EEE PC (R101) | Android.x86 Kitkat | FAIL | FAIL | WifiDirect not working, Gamepad OK
+Asus EEE PC (R101) | Android.x86 5.0.2 | FAIL | FAIL | WifiDirect not implemented, Gamepad OK
+[Alcatel Pop D5 (5038D)](http://www.devicespecifications.com/en/model/e4142f0b) | Original 4.4.2 | FAIL | FAIL | No USB OTG (Cheap Phone ~ 70 Euro)
+
 
 ## Tutorials and Documentation
 
