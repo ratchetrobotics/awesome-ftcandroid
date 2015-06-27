@@ -36,6 +36,8 @@ Asus EEE PC (R101) | Android.x86 5.0.2 | FAIL | FAIL | WifiDirect not implemente
 
 ## Tutorials and Documentation
 
+- [Feeling overwhelmed? Start here!](http://ftcforum.usfirst.org/showthread.php?4186-Feeling-overwhelmed-Start-here)
+
 ### Setup
 - [Wireless ADB setup](http://developer.android.com/tools/help/adb.html#wireless)
 
