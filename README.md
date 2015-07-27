@@ -54,6 +54,7 @@ It's *really* nice that we have a camera this year.
 Vision libraries let you do object tracking and cool stuff like that.
 - [FastCV](https://developer.qualcomm.com/software/fast-cv-sdk): Qualcomm's Snapdragon-tailored vision SDK
 - [OpenCV(4Android)](http://opencv.org/platforms/android.html): OpenCV for Android
+- [BoofCV](http://boofcv.org/index.php?title=Main_Page): A pure-Java CV library
 
 ### Crashes and Logging
 Every app *will* end up crashing, it's just a matter of *when* :)
