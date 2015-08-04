@@ -1,4 +1,4 @@
-# Awesome FTC Android
+# Awesome FTC Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Beware!:** These are *very* opinionated curated selections! If you have a suggestion, send a pull request!
 I've left out most of what lists like this usually talk about, since it's usually geared towards building
