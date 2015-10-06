@@ -27,6 +27,7 @@ regular Android apps.
 ### Programming
 - [FTC SDK Training manual](https://github.com/ftctechnh/ftc_app/blob/master/doc/tutorial/FTCTraining%20Manual%20v0_93.pdf)
 - [Javadoc for SDK](http://htmlpreview.github.io/?https://github.com/ftctechnh/ftc_app/blob/master/doc/javadoc/index.html)
+- [Startup order for OpModes](https://gist.github.com/ArchimedesPi/a5f8f841570d5dc53bbd)
 
 ## Apps
 - [Driver Station](https://play.google.com/store/apps/details?id=com.qualcomm.ftcdriverstation&hl=en)
